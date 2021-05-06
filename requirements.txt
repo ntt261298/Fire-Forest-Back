@@ -22,7 +22,7 @@ distro-info==0.18
 docutils==0.14
 entrypoints==0.2.3
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-PyMongo==2.2.0
 gast==0.2.0
 grpcio==1.16.1
